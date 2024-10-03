@@ -1,4 +1,6 @@
 # Cara Install Genieacs di Ubuntu 24.04
+##### oleh Purwanto, Jasa setting mikrotik untuk berbagai topologi dan keperluan jaringan yang handal, nomor hp/wa +6282233483221
+
 Untuk menginstal GenieACS di Ubuntu 24.04, berikut adalah langkah-langkahnya:
 
 ### Prasyarat
