@@ -1,0 +1,1 @@
+# install-genieacs-di-ubuntu-24.04
